@@ -1,4 +1,4 @@
-# Amazon-Recommendation-system-item-to-item-based-collabrative-filtering-in-python-3.7
+# Music Recommendation System based on item-to-item based collabrative filtering in python 3.7
 
 This is a POC(proof of concept repository)
 In task2.py lies the code for recommendation system that uses item to item based collabrative filtering.
